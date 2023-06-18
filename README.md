@@ -8,7 +8,7 @@ empower farmers to implement appropriate interventions, optimize resource
 allocation, and make informed decisions to mitigate the spread of diseases, minimize
 crop losses, and increase crop yield.
 
-# PotatoDiseaseClassification
+# Explanation of The Neural Network Model Used
 For this project, a Convolutional Neural Network (CNN) model was employed for the task of potato disease detection.
 
 The dataset used in this project was obtained from Kaggle:
