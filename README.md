@@ -14,10 +14,9 @@ For this project, a Convolutional Neural Network (CNN) model was employed for th
 The dataset used in this project was obtained from Kaggle:
 (https://www.kaggle.com/datasets/arjuntejaswi/plant-village?resource=download)
 
-
-We run this test on google colabrotary. 
-We trained our model in 'training.ipynb' and save as '1'.
-'1' named folder contains our saved_model.
-'PlantVillage' is our test dataset and contains 102 samples.
-We loaded 'PlantVillage' and '1' folder into colab. 
-After loading 'PlantVillage' and '1' into colab with 'PlantDiseasesTest.ipynb', you can use our code.
+- We run this test on google colabrotary. 
+- We trained our model in 'training.ipynb' and save as '1'.
+- '1' named folder contains our saved_model.
+- 'PlantVillage' is our test dataset and contains 102 samples.
+- We loaded 'PlantVillage' and '1' folder into colab. 
+- After loading 'PlantVillage' and '1' into colab with 'PlantDiseasesTest.ipynb', you can use our code.
